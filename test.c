@@ -1,6 +1,6 @@
 #include<stdio.h>
-
+ 
 int main(){
-    printf("Hello, World!\n"); //주석추가
+    printf("Hello, World!\n"); //주석 추가
     return 0;
 }
